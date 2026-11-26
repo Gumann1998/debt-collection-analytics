@@ -8,6 +8,10 @@ The analysis focuses on recovery performance across customer segments, claim age
 
 **Note:** All data is synthetically generated. The results do not represent the actual performance of EOS or any other debt collection company.
 
+## Dashboard Preview
+
+![Debt Collection Analytics Dashboard](images/dashboard.png)
+
 ## Technologies
 
 - Python – synthetic data generation and data preparation
